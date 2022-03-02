@@ -113,6 +113,14 @@ main {width: 100%;}
     border-radius: 50%;
 }
 
+.img-body2,
+.img-body2 img {
+    width: 200px;
+    display: table;
+    margin: 0 auto; 
+   
+}
+
 .card-body { padding: 1em; }
 .card-body p {
     color: #343A40;
